@@ -1,8 +1,11 @@
 import React from 'react'
+import Fitur from './components/fitur'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+    <Fitur />
+    </div>
   )
 }
 
