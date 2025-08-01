@@ -1,11 +1,11 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <p>This is a simple React application.</p>
+      <p>anjai mabar</p>
       <button onClick={() => alert('Button clicked!')}>Click Me</button>
     </>
   )
