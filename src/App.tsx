@@ -5,8 +5,7 @@ function App() {
 
   return (
     <>
-      <p>This is a simple React application.</p>
-      <button onClick={() => alert('Button clicked!')}>Click Me</button>
+     <p>mencoba untuk beteter </p>
     </>
   )
 }
